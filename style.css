@@ -1,0 +1,21 @@
+.first-container,second-container{
+    width: 900px;
+    height: 500px;
+    /*border:2px solid;*/
+    margin:5px;
+}
+.item-1,.item-2,.item-3,.item-4{
+    width: 200px;
+    /*height: 450px;*/
+    /*border: 2px solid;*/
+    margin: 5px;
+    display: inline-block;
+    vertical-align: top;
+}
+img{
+    width: 100%;
+}
+h3{
+    text-align: center;
+    padding: 5px;
+}
